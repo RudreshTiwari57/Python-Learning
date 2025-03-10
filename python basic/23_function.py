@@ -7,9 +7,7 @@
         # These functions do not take any parameters and also do not return a value. They simply perform an operation.
         #
         # Example: A Function that Prints a Message
-            # python
-            # Copy
-            # Edit
+      
 
 def say_hello():
     print("Hello, World!")  # Only prints, does not return anything
@@ -33,9 +31,7 @@ print(result)  # Output: None
         # Instead, they usually perform some operation like printing, modifying a global variable,
         # writing to a file, etc. If there is no explicit return statement, Python implicitly returns None.
     # Example: A Function that Prints a Greeting
-        # python
-        # Copy
-        # Edit
+  
 
 def greet(name):
     print(f"Hello, {name}!")  # Performs an action but does not return anything
@@ -58,9 +54,7 @@ print(result)  # Output: None (because nothing is returned)
 #     These functions accept parameters and also return a value using the return keyword. This makes them reusable and useful in calculations or data processing.
 #
 #     Example: A Function that Adds Two Numbers
-#         python
-#         Copy
-#         Edit
+
 
 def add(a, b):
     return a + b  # Returns the sum of a and b
@@ -82,9 +76,7 @@ print(result)  # Output: 15
 #     These functions do not take parameters but still return a value. They are useful when you need to fetch or generate data but don’t need any input.
 #
 #     Example: A Function that Returns the Current Time
-#         python
-#         Copy
-#         Edit
+
 
 import time
 
