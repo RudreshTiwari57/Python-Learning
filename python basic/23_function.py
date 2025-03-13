@@ -77,7 +77,7 @@ print(result)  # Output: 15
         # Processing and transforming data
         # Fetching values from databases or APIs
 
-# 3. ----------------------------------Takes Nothing, Returns Something---------------------------------
+# 4. ----------------------------------Takes Nothing, Returns Something---------------------------------
 #     Definition
 #     These functions do not take parameters but still return a value. They are useful when you need to fetch or generate data but don’t need any input.
 #
